@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1650458804 source:d:\kuliah\semester 2\tugas\praktikum alpro\praktikum 7\binsearch1\binsearch1.c
+	"BinSearch1.h"
+	<stdio.h>
+	<stdlib.h>
+
+1650457894 d:\kuliah\semester 2\tugas\praktikum alpro\praktikum 7\binsearch1\binsearch1.h
+
+1650458804 source:d:\kuliah\semester 2\tugas\praktikum alpro\praktikum 7\binsearch1\main.c
+	"BinSearch1.h"
+	<stdio.h>
+	<stdlib.h>
+

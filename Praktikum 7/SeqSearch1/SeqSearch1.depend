@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1650447272 source:d:\kuliah\semester 2\tugas\praktikum alpro\praktikum 7\seqsearch1\seqsearch1\seqsearch1.c
+	"SeqSearch1.h"
+	<stdio.h>
+	<stdlib.h>
+
+1650444666 d:\kuliah\semester 2\tugas\praktikum alpro\praktikum 7\seqsearch1\seqsearch1\seqsearch1.h
+
+1650448518 source:d:\kuliah\semester 2\tugas\praktikum alpro\praktikum 7\seqsearch1\seqsearch1\main.c
+	"SeqSearch1.h"
+	<stdio.h>
+	<stdlib.h>
+
